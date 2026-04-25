@@ -1,0 +1,6 @@
+{
+  "name": "ExampleHR Time-Off Microservice",
+  "description": "Middleware microservice for managing employee leave requests and balance integrity with HCM sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}

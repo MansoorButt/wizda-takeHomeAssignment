@@ -1,0 +1,6 @@
+{
+  "name": "Time-Off Microservice (HCM Mock)",
+  "description": "Standalone Mock HCM Server providing real-time balance checks, leave submissions, and batch sync support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
